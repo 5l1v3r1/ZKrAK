@@ -3,7 +3,7 @@
       
 # How To Install
        
-       - Open Your Terminal
+       * Open Your Terminal
        
        - type this command: git clone https://github.com/Oseid/ZKrAK.git and hit enter
        
